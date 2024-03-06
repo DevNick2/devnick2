@@ -2,6 +2,8 @@
 
 <p>
   I’m a programmer dedicated to learning new things. New knowledge inspires me to grow every day. I have knowledge in JavaScript, VueJs, ReactJs, NodeJs, PHP, and Python. I enjoy challenges and creating innovative solutions for problems.
+
+  If you want learn more about me, access my <a href="https://www.linkedin.com/in/jeann%C3%ADcolasalmeidavieira/" target="_blank">Linked-In</a> or view my repositories 👀
 </p>
 
 <div align="center">
