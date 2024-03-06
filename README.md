@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jean Nicolas and welcome to my github profile!
 
 <p>
-  I’m a programmer dedicated to learning new things. New knowledge inspires me to grow every day. I have knowledge in JavaScript, Vue.js, React.js, Node.js, PHP, and Python. I enjoy challenges and creating innovative solutions for problems.
+  I’m a programmer dedicated to learning new things. New knowledge inspires me to grow every day. I have knowledge in JavaScript, VueJs, ReactJs, NodeJs, PHP, and Python. I enjoy challenges and creating innovative solutions for problems.
 </p>
 
 <div align="center">
