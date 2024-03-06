@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,jquery,webpack,vue,react,nodejs,php,py,laravel,html,css,sass,cypress,ubuntu,git,azure,docker,vscode,bash,bitbucket,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery,webpack,vue,nuxtjs,react,nodejs,php,py,laravel,html,sass,bootstrap,cypress,jest,azure,docker,bitbucket" />
   </a>
 </div>
 
