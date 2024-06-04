@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/DevNick2" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevNick2&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevNick2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNick2&layout=donut&langs_count=10&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
@@ -23,4 +23,15 @@
   <a href="https://www.instagram.com/jeannicolasav/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jeannicolasav@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeann%C3%ADcolasalmeidavieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+  <h3>My libs to all projects back-end Node</h3>
+  <ul>
+    <li><a href="https://www.typescriptlang.org/">typescript</a></li>
+    <li><a href="https://tsx.is/">tsx</a></li>
+    <li><a href="https://tsup.egoist.dev/#what-can-it-bundle">tsup</a></li>
+    <li><a href="https://vitest.dev/">vitest</a></li>
+    <li><a href="https://zod.dev/">zod</a></li>
+  </ul>
 </div>
