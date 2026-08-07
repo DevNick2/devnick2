@@ -4,6 +4,8 @@
   I’m a programmer dedicated to learning new things. New knowledge inspires me to grow every day. I have knowledge in JavaScript, VueJs, ReactJs, NodeJs, PHP, and Python. I enjoy challenges and creating innovative solutions for problems.
 
   If you want learn more about me, access my <a href="https://www.linkedin.com/in/jeann%C3%ADcolasalmeidavieira/" target="_blank">Linked-In</a> or view my repositories 👀
+
+  Check out the full [index of my projects](PROJECTS.md) and my [technical notes](NOTES.md) (API, ESLint, Azure, React, Vue, Javascript and more).
 </p>
 
 <div align="center">
